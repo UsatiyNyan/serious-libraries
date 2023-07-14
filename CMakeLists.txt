@@ -14,3 +14,8 @@ project(
         DESCRIPTION "collection of serious libraries"
         HOMEPAGE_URL "TODO"
         LANGUAGES CXX C)
+
+cpmaddpackage(
+        NAME serious-serialization-library
+        GIT_REPOSITORY "git@github.com:UsatiyNyan/serious-serialization-library.git"
+        GIT_TAG main)
