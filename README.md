@@ -13,6 +13,14 @@ Also, "serious cmake library" is intended to be backwards-compatible and always 
 
 Every other "serious library" is installed as a package (currently using CPM) and are versioned.
 
+## collection of serious libraries in graph-sorted dependency order
+
+- https://github.com/usatiynyan/serious-cmake-library
+- https://github.com/UsatiyNyan/serious-meta-library
+- https://github.com/UsatiyNyan/serious-calculation-library
+- https://github.com/UsatiyNyan/serious-graphics-library
+- https://github.com/UsatiyNyan/serious-serialization-library
+
 ## serious project roadmap
 
 There is none currently.
