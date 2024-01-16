@@ -15,11 +15,11 @@ Every other "serious library" is installed as a package (currently using CPM) an
 
 ## collection of serious libraries in graph-sorted dependency order
 
-- https://github.com/usatiynyan/serious-cmake-library
-- https://github.com/UsatiyNyan/serious-meta-library
-- https://github.com/UsatiyNyan/serious-calculation-library
-- https://github.com/UsatiyNyan/serious-graphics-library
-- https://github.com/UsatiyNyan/serious-serialization-library
+- [serious cmake library](https://github.com/UsatiyNyan/serious-cmake-library)
+- [serious meta library](https://github.com/UsatiyNyan/serious-meta-library)
+- [serious calculation library](https://github.com/UsatiyNyan/serious-calculation-library)
+- [serious graphics library](https://github.com/UsatiyNyan/serious-graphics-library)
+- [serious serialization library](https://github.com/UsatiyNyan/serious-serialization-library)
 
 ## serious project roadmap
 
